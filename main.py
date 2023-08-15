@@ -1,1 +1,2 @@
-# first main file 
+# first main file
+print("Hello word")
